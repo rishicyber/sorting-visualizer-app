@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-🌐 [https://rishicyber.github.io/sorting-visualizer](https://rishicyber.github.io/sorting-visualizer)
+🌐 [https://rishicyber.github.io/sorting-visualizer-app](https://rishicyber.github.io/sorting-visualizer-app)
 
 ---
 
